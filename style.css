@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+#video {
+    height: 500px;
+    width: 100%;
+    border: none;
+}
+
+h1 {
+    background: linear-gradient(to blue, cyan);
+}
